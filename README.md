@@ -1,6 +1,6 @@
 ## [Amano Megumi wa Suki Darake!](https://anilist.co/manga/87160/Amano-Megumi-wa-Suki-Darake/)
 
-![Kurumi](pic.jpg)
+![Kurumi](Covers/pic.jpg)
 
 ### I love this Manga so I decided to make this repo for It's Covers!
 
